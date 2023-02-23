@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>Standard</tabid>
+    <tabname>Standard Edition</tabname>
+    <content_href>tab-console1.part.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>Digital</tabid>
+    <tabname>Digital Edition</tabname>
+    <content_href>tab-console2.part.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>
